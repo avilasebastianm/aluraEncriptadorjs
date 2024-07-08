@@ -1,4 +1,3 @@
-¡Absolutamente! Aquí tienes un borrador de un README para tu proyecto Alura Encriptador, con una estructura clara y fácil de entender:
 
 ## Encriptador de Texto - Alura Challenge ONE
 
