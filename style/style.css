@@ -1,0 +1,32 @@
+* {
+    background-color: #202124;
+    font-family: 'JetBrains Mono', sans-serif;
+}
+
+body {
+    max-width: 60rem;
+    margin: auto;}
+
+
+.button {
+    display: inline-block;
+    padding: 1rem 1rem;
+    font-size: 2rem;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #202124;
+    background-color: #5FC8D6;
+    border: none;
+    border-radius: 2rem;
+    box-shadow: 0 9px #999;
+}
+
+.button:hover {background-color: #469fac}
+
+.button:active {
+    background-color: #FBEC97;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
